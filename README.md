@@ -1,14 +1,15 @@
 # Project name
-<br/>
+NEXXO’s
 
 # Project problem type
-<br/>
+Small Business
 
 # Project industry
-<br/>
+Finance
 
 # Technologies used
-<br/>
+Tezos Smart contract
 
 # Participants
-<br/>
+Marcus Lee: shengwel@andrew.cmu.edu<br/>
+Xiangyue Meng: xiangyum@andrew.cmu.edu
